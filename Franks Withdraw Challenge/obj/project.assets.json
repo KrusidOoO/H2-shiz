@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Work\\GitHub\\H2-shiz\\OOP\\Gennemgående Opgave\\Gennemgående Opgave.csproj",
-      "projectName": "Gennemgående Opgave",
-      "projectPath": "E:\\Work\\GitHub\\H2-shiz\\OOP\\Gennemgående Opgave\\Gennemgående Opgave.csproj",
+      "projectUniqueName": "E:\\Work\\GitHub\\H2-shiz\\Franks Withdraw Challenge\\Franks Withdraw Challenge.csproj",
+      "projectName": "Franks Withdraw Challenge",
+      "projectPath": "E:\\Work\\GitHub\\H2-shiz\\Franks Withdraw Challenge\\Franks Withdraw Challenge.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "E:\\Work\\GitHub\\H2-shiz\\OOP\\Gennemgående Opgave\\obj\\",
+      "outputPath": "E:\\Work\\GitHub\\H2-shiz\\Franks Withdraw Challenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

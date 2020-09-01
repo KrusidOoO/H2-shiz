@@ -8,23 +8,21 @@ namespace Gennemgående_Opgave
     {
         //A place to store the wares
 
-        List<Item> items = new List<Item>();
+        public List<Item> items = new List<Item>();
 
-        void AddItem(Item item)
+        public void AddItem(Item item)
         {
             items.Add(item);
         }
         
-        void RemoveItem(Item item)
+        public void RemoveItem(Item item)
         {
             items.Remove(item);
         }
         
-        List<Item> getAllItems()
+        public List<Item> getAllItems()
         {
             return items;
         }
-        
-
     }
 }

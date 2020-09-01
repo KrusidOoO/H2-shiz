@@ -1,0 +1,13 @@
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\bin\Debug\netcoreapp3.1\Gennemgående Opgave.exe
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\bin\Debug\netcoreapp3.1\Gennemgående Opgave.deps.json
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\bin\Debug\netcoreapp3.1\Gennemgående Opgave.runtimeconfig.json
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\bin\Debug\netcoreapp3.1\Gennemgående Opgave.runtimeconfig.dev.json
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\bin\Debug\netcoreapp3.1\Gennemgående Opgave.dll
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\bin\Debug\netcoreapp3.1\Gennemgående Opgave.pdb
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\obj\Debug\netcoreapp3.1\Gennemgående Opgave.csprojAssemblyReference.cache
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\obj\Debug\netcoreapp3.1\Gennemgående Opgave.csproj.CoreCompileInputs.cache
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\obj\Debug\netcoreapp3.1\Gennemgående Opgave.AssemblyInfoInputs.cache
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\obj\Debug\netcoreapp3.1\Gennemgående Opgave.AssemblyInfo.cs
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\obj\Debug\netcoreapp3.1\Gennemgående Opgave.dll
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\obj\Debug\netcoreapp3.1\Gennemgående Opgave.pdb
+E:\Work\GitHub\H2-shiz\OOP\Gennemgående Opgave\obj\Debug\netcoreapp3.1\Gennemgående Opgave.genruntimeconfig.cache

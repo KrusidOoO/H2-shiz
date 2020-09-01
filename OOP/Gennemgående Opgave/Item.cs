@@ -8,11 +8,10 @@ namespace Gennemgående_Opgave
 
 
         //So the way I'm building these lists are:
-        //first the amount, then the name of the product and lastly a description of it
-        int ID;
-        string name;
-        int amount;
-        string description;
-
+        //first the ID, then amount, THEN the name of the product and lastly a description of it
+        public int ID;
+        public int amount;
+        public string name;
+        public string description;
     }
 }
