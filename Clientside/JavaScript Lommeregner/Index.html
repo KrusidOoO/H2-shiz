@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+
+
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Javascript lommeregner</title>
+</head>
+<body>
+    <div>
+        <h2>
+            Time to calculate
+        </h2>
+        <b>
+            In the drop down menu, select which mathematical operator you would like to use
+        </b>
+        <div>
+    <input type="text" id="tal1" />
+    <select id="SelectMethod">
+        
+        <option value="+">+</option>
+        <option value="-">-</option>
+        <option value="*">*</option>
+        <option value="/">/</option>
+        <option value="^">^</option>
+        <!--<option value="squared">squared</option>-->
+    </select>
+    <input type="text" id="tal2" />
+    <button onclick="calculate()">Udregn</button>
+            <script type="text/javascript">
+                var Select = document.getElementById("SelectMethod").value;
+
+                if (Select = "squared")
+                    document.getElementById("tal2").hidden;
+                
+            </script>
+    <!--<input type="text" id="Method"  />-->
+        <input type="text" name="result" value="result = " id="resultOf" />
+
+        </div>
+    </div>
+    
+    
+
+
+
+
+    <script type="text/javascript">
+    //Hent værdier fra tekstboxe og udregn
+        function calculate() {
+            var a = parseInt( document.getElementById("tal1").value );
+            var b = parseInt(document.getElementById("tal2").value);
+            var Method = document.getElementById("SelectMethod").value;
+            var resultOf = document.getElementById("resultOf");
+            //console.log(add(a, b))
+            switch (Method) {
+                case "+":
+                    console.log(add(a, b))
+                    resultOf.value="result = " + add(a,b)
+                    break;
+                case "-":
+                    console.log(subtract(a, b))
+                    resultOf.value = "result = " + subtract(a,b)
+                    break;
+                case "*":
+                    console.log(multiply(a, b))
+                    resultOf.value = "result = " + multiply(a,b)
+                    break;
+                case "/":
+                    console.log(division(a, b))
+                    resultOf.value = "result = " + division(a, b)
+                    break;
+                case "^":
+                    console.log(powerOf(a, b))
+                    resultOf.value = "result = " + powerOf(a, b)
+                    break;
+                //case "squared":
+                //    console.log(squareRoot(a))
+                //    resultOf.value = "result = " + squareRoot(a)
+                //    break;
+
+                default:
+            }
+            
+        }
+        function add(a, b) {
+            return a + b;
+        }
+        function subtract(a, b) {
+            return a - b;
+        }
+        function multiply(a, b) {
+            return a * b;
+        }
+        function division(a, b) {
+            return a / b;
+        }
+        function powerOf(a, b) {
+            return Math.pow(a, b);
+        }
+        //function squareRoot(a) {
+        //    return Math.sqrt(a);
+        //}
+    </script>
+</body>
+</html>

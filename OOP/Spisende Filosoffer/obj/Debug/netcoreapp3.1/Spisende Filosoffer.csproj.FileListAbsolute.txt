@@ -1,0 +1,13 @@
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\bin\Debug\netcoreapp3.1\Spisende Filosoffer.exe
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\bin\Debug\netcoreapp3.1\Spisende Filosoffer.deps.json
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\bin\Debug\netcoreapp3.1\Spisende Filosoffer.runtimeconfig.json
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\bin\Debug\netcoreapp3.1\Spisende Filosoffer.runtimeconfig.dev.json
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\bin\Debug\netcoreapp3.1\Spisende Filosoffer.dll
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\bin\Debug\netcoreapp3.1\Spisende Filosoffer.pdb
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\obj\Debug\netcoreapp3.1\Spisende Filosoffer.csprojAssemblyReference.cache
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\obj\Debug\netcoreapp3.1\Spisende Filosoffer.csproj.CoreCompileInputs.cache
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\obj\Debug\netcoreapp3.1\Spisende Filosoffer.AssemblyInfoInputs.cache
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\obj\Debug\netcoreapp3.1\Spisende Filosoffer.AssemblyInfo.cs
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\obj\Debug\netcoreapp3.1\Spisende Filosoffer.dll
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\obj\Debug\netcoreapp3.1\Spisende Filosoffer.pdb
+E:\Work\GitHub\H2-shiz\OOP\Spisende Filosoffer\obj\Debug\netcoreapp3.1\Spisende Filosoffer.genruntimeconfig.cache
